@@ -158,4 +158,4 @@ $ ./demo3
 ```
 
 ---
-*Wolfram Rösler • wolfram@roesler-ac.de • https://gitlab.com/wolframroesler • https://twitter.com/wolframroesler • https://www.linkedin.com/in/wolframroesler/*
+*Wolfram Rösler • wolfram@roesler-ac.de • https://gitlab.com/wolframroesler • https://mastodontech.de/@wolfram_roesler • https://www.linkedin.com/in/wolframroesler/*
